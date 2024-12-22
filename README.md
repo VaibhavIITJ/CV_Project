@@ -1,4 +1,4 @@
-# CV_project
+# CV_Project
 This is dataset of "Plant Pathology 2020 - FGVC7" competition In this we are challenged to diagnose plant diseases solely based on leaf images. The categories include "healthy", "scab", "rust", and "multiple diseases". 
 In this kernel, I will visualize the data with Matplotlib and Plotly and then demonstrate some important image processing and augmentation techniques using OpenCV. Finally, I will show how different pretrained Keras models, such as DenseNet and EfficientNet, can be used to solve the problem.
 
