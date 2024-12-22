@@ -8,6 +8,6 @@ In this kernel, I will visualize the data with Matplotlib and Plotly and then de
 4) Run all and now you can see the results.
 
 Project explaination drive link - https://drive.google.com/file/d/1pu6T-ehkP4KxUEfTZYGDEPFCXdrq8UhK/view?usp=sharing
-Code explaination drive link - https://drive.google.com/file/d/1kzScF5jZn8DewTljs0UO2Hkehbn9NwYz/view?usp=sharing
+<br>Code explaination drive link - https://drive.google.com/file/d/1kzScF5jZn8DewTljs0UO2Hkehbn9NwYz/view?usp=sharing
 
  Note : While running it can give error respective of the libraries to import according to versions. So , you may need to install those libraries from yourself while running depending on the Kaggle Notebook environment.
